@@ -1,5 +1,4 @@
 
-````markdown
 # Multi-Class Classification with Random Forest & XGBoost 🌳⚡
 
 This project is part of my internship task where I learned how to train and evaluate **multi-class classification models** using **Random Forest** and **XGBoost**.
@@ -98,5 +97,4 @@ The main goals of this project were:
 ## Contributing
 
 This is a learning project — suggestions and improvements are always welcome!
-Chaho to main tumhare liye ek **requirements.txt** bhi bana dun taki easily dependencies install ho jaye?
 ```
