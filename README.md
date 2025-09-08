@@ -97,4 +97,3 @@ The main goals of this project were:
 ## Contributing
 
 This is a learning project — suggestions and improvements are always welcome!
-```
