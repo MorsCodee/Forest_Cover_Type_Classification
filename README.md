@@ -74,7 +74,7 @@ The main goals of this project were:
 1. Clone this repo:
    ```bash
    git clone https://github.com/MorsCodee/Forest_Cover_Type_Classification.git
-````
+   ```
 
 2. Install dependencies:
 
